@@ -16,7 +16,7 @@ Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 3.Carefully complete the homework of each subject.<br>
 <hr>
 Here are some of my previous works
-Use this template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+
 
 ## Demo
 
