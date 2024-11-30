@@ -1,3 +1,32 @@
+<nav
+  class="relative flex w-full flex-nowrap items-center justify-between bg-white py-2 text-neutral-500 shadow-lg hover:text-neutral-700 focus:text-neutral-700 dark:bg-slate-900 lg:flex-wrap lg:justify-start lg:py-4"
+  data-te-navbar-ref>
+  <div class="flex w-full flex-wrap items-center justify-between px-3">
+    <!-- Hamburger button for mobile view -->
+    <button
+      class="block border-0 bg-transparent px-2 text-neutral-500 hover:no-underline hover:shadow-none focus:no-underline focus:shadow-none focus:outline-none focus:ring-0 dark:text-neutral-200 lg:hidden"
+      type="button"
+      data-te-collapse-init
+      data-te-target="#collapse-main-navbar"
+      aria-controls="collapse-main-navbar"
+      aria-expanded="false"
+      aria-label="Toggle navigation" onclick="toggleNavbar('collapse-main-navbar')">
+      <!-- Hamburger icon -->
+      <span class="[&>svg]:w-7">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="currentColor"
+          class="h-7 w-7">
+          <path
+            fill-rule="evenodd"
+            d="M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z"
+            clip-rule="evenodd" />
+        </svg>
+      </span>
+    </button>
+
+
 ![2ec4c73625ee7fb91e8257e03f78d80](https://github.com/user-attachments/assets/71a8f338-188e-4b2b-bd36-ce4d33bc674a)<br>
 <figcaption>Let's get started!</figcaption>
 👇
@@ -5,7 +34,7 @@
 
 <hr>
 
-# Self Introduction 🧡
+# <mark>Self Introduction </mark>🧡
 
 <img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/9b27e41b-aa91-4e15-bfd6-2bdf372de2d1>
 
@@ -20,14 +49,14 @@ Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 <hr>
 <br>
 
-# Study Goals 💛
+# <mark>Study Goals</mark> 💛
 
 1.Do my best to adapt to business school life, obtain good grades, and strive to get an A.<br> 
 2.Improve my English level and strive to pass CET-6.<br>
 3.Carefully complete the homework of each subject.<br>
 <hr>
-<p>The followings are some of my <strong>previous works</strong></p>▶
-Chinese<br>
+<p>The followings are some of my <strong>previous works</strong></p>▶<br>
+Chinese <br>
 <a href="https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1"> 评史铁生《命若琴弦》中治眼药方的意义</a>.<br>
 <a href="https://docs.qq.com/document/DQ3pZWXZqSGNYSWdr">评《断魂枪》</a><br>
 <a href="https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx">评《秋兴八首》</a><br>
@@ -49,7 +78,7 @@ International Tourism Management<br>
 <hr>
 <br>
 
- # Social network links 💚
+ # <mark>Social network links</mark> 💚
  
  - email box: hjy778928502@outlook.com<br>
     If you have any question ,please e-mail me 💬 <br>
@@ -85,7 +114,7 @@ Goals:
 <hr>
 <br>
 
-# Skills 💙
+# <mark>Skills</mark> 💙
 
 <img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/e6fe3f50-4314-4352-84b2-b08744c868f6>
 
@@ -116,7 +145,7 @@ Languages:
 <hr>
 <br>
 
-# Self-evaluation 💜
+# <mark>Self-evaluation</mark> 💜
 
 I am a Taurus girl from Nanchang, Jiangxi. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals.I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.<br>
 
