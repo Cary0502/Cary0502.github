@@ -16,7 +16,10 @@ I'm from Jiangxi,<strong>Nanchang</strong>,a city situated in the southeasten Ch
 My hobbies are <strong>various</strong>,like playing badminton,dancing and making desserts.<br>
 Also,I'm obssessed in the cotton dolls and research houw to make them by myself.</p>
 
+<br>
 <hr>
+<br>
+
 # Study Goals 💛
 
 1.Do my best to adapt to business school life, obtain good grades, and strive to get an A.<br> 
@@ -42,8 +45,10 @@ International Tourism Management<br>
 
 
 
-
+<br>
 <hr>
+<br>
+
  # Social network links 💚
  
  - email box: hjy778928502@outlook.com<br>
@@ -76,7 +81,10 @@ Goals:
       - Make more good friends
       - Get rid of my procrastination
 
+<br>
 <hr>
+<br>
+
 # Skills 💙
 
 <img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/e6fe3f50-4314-4352-84b2-b08744c868f6>
@@ -104,8 +112,10 @@ Languages:
   - name: Japanese<br>
     percent: 15
 
-
+<br>
 <hr>
+<br>
+
 # Self-evaluation 💜
 
 I am a Taurus girl from Nanchang, Jiangxi. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals.I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.<br>
