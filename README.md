@@ -1,12 +1,17 @@
 ![image](561a376cac46372db22f56986f94aa5](https://github.com/user-attachments/assets/c03c578d-c75b-4861-b276-e11c5468d9be)
 
-# Hugo Theme Stack
+# Self Introduction
 
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-Card-style Hugo theme designed for bloggers.
+Hi!My name is Huang Jiayuan,you guys can also called me Cary.
+I'm a student from MSB at Macau University of Science and Technology.
+I'm from Jiangxi,Nanchang,a city situated in the southeasten China.
+My hobbies are various,like playing badminton,dancing and making desserts.
+Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 
-## Quickstart
+
+## Study Goals
 
 Use this template: [CaiJimmy/hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
