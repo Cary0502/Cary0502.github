@@ -19,21 +19,55 @@ Here are some of my previous works<br>
 <a href="https://github.com/Cary0502/Cary0502.github/blob/main/D03-%E5%AE%B9%E5%BF%8D%E4%B8%8E%E8%87%AA%E7%94%B1-%E9%BB%84%E5%98%89%E6%BA%90-1230031599.docx">评《容忍与自由》</a>.
 <a href="">
 
-## Movies
+## Social network links
+ - email box: 'hjy778928502@outlook.com'
+    If you have any question ,please e-mail Me
 
-The followings are all my loved<br>
-* The Shawshank Redemption : 
-* 
-## Documentation
+Interests:
+  - Play badminton
+  - Dance
+  - Make dessert
 
-Visit [stack.jimmycai.com](https://stack.jimmycai.com)
+Education:
+  - area: Business Adminstration
+    institution: Macau University of Science and Technology
+    date_start: 2023-09-01
+    date_end: 2027-8-30
+    
+Goals:
+  - study: 
+      - Do my best to adapt to business school life, obtain good grades, and strive to get an A.
+      - Improve my English level and strive to pass CET-6.
+      - Carefully complete the homework of each subject 
+  - life: 
+      - Keep a positive attitude and strive to be happy every day
+      - Make more good friends
+      - Get rid of my procrastination
 
-## Copyright
+# Skills
+  - name: make desserts
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: fruit cake
+        description: The cake I made tastes good but the styling is a bit lacking 
+        percent: 50
+      - name: milk shake
+        description: I'm very skilled at it and everyine who drinks them says they are good
+        percent: 100
+      
 
-**Licensed under the GNU General Public License v3.0**
+Languages:
+  - name: English
+    percent: 50
+  - name: Chinese
+    percent: 100
+  - name: Japanese
+    percent: 15
 
-Please do not remove the "*Theme Stack designed by Jimmy*" text and link.
 
-If you want to port this theme to another blogging platform, please let me know🙏.
-```html
+
+## About Me
+
+I am a Taurus girl from Nanchang, Jiangxi. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals.I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.
 
