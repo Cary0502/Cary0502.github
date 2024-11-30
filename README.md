@@ -1,7 +1,8 @@
 <p><head><strong>Welcome To Cary's Channel</strong></head>
 <hr>
 
-![2ec4c73625ee7fb91e8257e03f78d80](https://github.com/user-attachments/assets/71a8f338-188e-4b2b-bd36-ce4d33bc674a)<br>
+![2ec4c73625ee7fb91e8257e03f78d80](https://github.com/user-attachments/assets/76223924-e477-49c1-b78e-c8f9a2189b37)
+<br>
 <figcaption>Let's get started!</figcaption>
 👇
 
@@ -10,7 +11,7 @@
 
 # <mark>Self Introduction </mark>🧡
 
-<img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/9b27e41b-aa91-4e15-bfd6-2bdf372de2d1>
+<img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/77af02dd-3343-4cd4-8d86-4c74c1f27a63>
 
 Hello,everyone! <br>
 <p>My name is <strong>Huang Jiayuan</strong>,you guys can also called me <strong>Cary</strong>.<br>
@@ -57,9 +58,9 @@ International Tourism Management<br>
  - email box: hjy778928502@outlook.com<br>
     If you have any question ,please e-mail me 💬 <br>
 
-<img align="left" width="250" alt="logo" src=https://github.com/user-attachments/assets/ae828032-292a-4b75-8be3-cc2937332531>
-<img align="middle" width="400" alt="logo" src=https://github.com/user-attachments/assets/baf40d1a-074b-4f99-8ae4-5c876c65b5c3>
-<img align="right" width="275" alt="logo" src=https://github.com/user-attachments/assets/aa80ca25-5a3c-448c-bc3b-1ea7d172909a>
+<img align="left" width="250" alt="logo" src=https://github.com/user-attachments/assets/76ca1109-de3c-43db-a1e1-85b9682abee6>
+<img align="middle" width="400" alt="logo" src=https://github.com/user-attachments/assets/2b0328e8-5672-48a9-8a2f-ce0339bc5c42>
+<img align="right" width="275" alt="logo" src=https://github.com/user-attachments/assets/e011e9b7-b669-4fcb-8bef-168ef5ead3bf>
 <hr>
 
 Interests:
@@ -70,7 +71,7 @@ Interests:
 
 Education:
   - area: Business Adminstration<br>
-    institution: Macau University of Science and Technology<br>
+    institution:<a href="https://www.must.edu.mo/"> Macau University of Science and Technology</a><br>
     date_start: 2023-09-01<br>
     date_end: 2027-8-30
     
@@ -90,7 +91,7 @@ Goals:
 
 # <mark>Skills</mark> 💙
 
-<img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/e6fe3f50-4314-4352-84b2-b08744c868f6>
+<img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/3ebc5ba7-1580-4af3-8c29-6c0e4db7d87f>
 
   - name: make desserts<br>
     items:<br>
