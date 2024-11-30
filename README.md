@@ -25,9 +25,13 @@ Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 <hr>
 <p>Here are some of my <strong>previous works</strong></p><br>
 <a href="https://docs.qq.com/doc/DQ0J3UmpCUGhFUEdZ?_bid=1&client=drive_file&nlc=1"> 评史铁生《命若琴弦》中治眼药方的意义</a>.<br>
-<a href="https://github.com/Cary0502/Cary0502.github/blob/main/D03-%E5%AE%B9%E5%BF%8D%E4%B8%8E%E8%87%AA%E7%94%B1-%E9%BB%84%E5%98%89%E6%BA%90-1230031599.docx">评《容忍与自由》</a>.
-<a href="">
-
+<a href="https://docs.qq.com/document/DQ3pZWXZqSGNYSWdr">评《断魂枪》</a><br>
+<a href="https://docs.qq.com/document/DQ3J3Y0RsQ1JCS2xx">评《秋兴八首》</a><br>
+<a href="https://docs.qq.com/document/DQ2FlQXp6cFVnUUZw">评《容忍与自由》</a><br>
+<a href="https://docs.qq.com/pdf/DQ3ZOYktoemhSWmxl">Right to equal education——Brown v. Board of Education (1954)</a><br>
+<a href="https://docs.qq.com/document/DQ2xjd0N5aFpJY2dJ">世界房卡展报告</a><br>
+<a href="https://docs.qq.com/document/DQ0ZVTE5VVWxEaGJC">Aruba's problem and advice</a><br>
+<a href="https://docs.qq.com/document/DQ0ZCb3BvcWlBU3RZ">online shopping report</a><br>
 
  # Social network links 💚
  <hr>
