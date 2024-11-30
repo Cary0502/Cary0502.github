@@ -22,9 +22,8 @@ Here are some of my previous works<br>
 ## Movies
 
 The followings are all my loved<br>
-*The Shawshank Redemption : [https://www.imdb.com/title/tt0111161/ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%25E8%2582%2596%25E7%2594%25B3%25E5%2585%258B%25E7%259A%2584](https://www.imdb.com/title/tt0111161/ref_=nv_sr_srsg_0_tt_1_nm_0_in_0_q_%25E8%2582%2596%25E7%2594%25B3%25E5%2585%258B%25E7%259A%2584)
-* Dev build: [dev.stack.jimmycai.com](https://dev.stack.jimmycai.com)
-
+* The Shawshank Redemption : 
+* 
 ## Documentation
 
 Visit [stack.jimmycai.com](https://stack.jimmycai.com)
