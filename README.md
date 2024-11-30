@@ -1,6 +1,4 @@
-![bfe104819d8b5b51a5c35662c01733d](https://github.com/user-attachments/assets/7340bd0c-eaf9-4bab-8035-73e603c38fb6)
-
-<img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
+<img align="right" width="250" alt="logo" src="https://github.com/user-attachments/assets/7340bd0c-eaf9-4bab-8035-73e603c38fb6">
 
 ## Self Introduction
 Hello,everyone! <br>
@@ -17,7 +15,7 @@ Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 3.Carefully complete the homework of each subject.<br>
 <hr>
 Here are some of my previous works
-
+<a href="https://example.com"></a>
 
 ## Demo
 
@@ -36,3 +34,4 @@ Please do not remove the "*Theme Stack designed by Jimmy*" text and link.
 
 If you want to port this theme to another blogging platform, please let me know🙏.
 ```html
+
