@@ -67,15 +67,18 @@ Goals:
         percent: 50<br>
       - name: milk shake<br>
         description: I'm very skilled at it and everyine who drinks them says they are good<br>
-        percent: 100
+        percent: 100<br>
+        <hr>
+  -Here are some websites I refer to for making desserts.
+  <a href="https://m.xiachufang.com/recipe/261178/">How to make fruit cake</a>
       
 
 Languages:
-  - name: English
-    percent: 50
-  - name: Chinese
-    percent: 100
-  - name: Japanese
+  - name: English<br>
+    percent: 50<br>
+  - name: Chinese<br>
+    percent: 100<br>
+  - name: Japanese<br>
     percent: 15
 
 
