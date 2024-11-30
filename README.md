@@ -1,31 +1,5 @@
-<nav
-  class="relative flex w-full flex-nowrap items-center justify-between bg-white py-2 text-neutral-500 shadow-lg hover:text-neutral-700 focus:text-neutral-700 dark:bg-slate-900 lg:flex-wrap lg:justify-start lg:py-4"
-  data-te-navbar-ref>
-  <div class="flex w-full flex-wrap items-center justify-between px-3">
-    <!-- Hamburger button for mobile view -->
-    <button
-      class="block border-0 bg-transparent px-2 text-neutral-500 hover:no-underline hover:shadow-none focus:no-underline focus:shadow-none focus:outline-none focus:ring-0 dark:text-neutral-200 lg:hidden"
-      type="button"
-      data-te-collapse-init
-      data-te-target="#collapse-main-navbar"
-      aria-controls="collapse-main-navbar"
-      aria-expanded="false"
-      aria-label="Toggle navigation" onclick="toggleNavbar('collapse-main-navbar')">
-      <!-- Hamburger icon -->
-      <span class="[&>svg]:w-7">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 24 24"
-          fill="currentColor"
-          class="h-7 w-7">
-          <path
-            fill-rule="evenodd"
-            d="M3 6.75A.75.75 0 013.75 6h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 6.75zM3 12a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75A.75.75 0 013 12zm0 5.25a.75.75 0 01.75-.75h16.5a.75.75 0 010 1.5H3.75a.75.75 0 01-.75-.75z"
-            clip-rule="evenodd" />
-        </svg>
-      </span>
-    </button>
-
+<p><head><strong>Welcome To Cary's Channel</strong></head>
+<hr>
 
 ![2ec4c73625ee7fb91e8257e03f78d80](https://github.com/user-attachments/assets/71a8f338-188e-4b2b-bd36-ce4d33bc674a)<br>
 <figcaption>Let's get started!</figcaption>
