@@ -1,4 +1,4 @@
-![image](561a376cac46372db22f56986f94aa5](https://github.com/user-attachments/assets/c03c578d-c75b-4861-b276-e11c5468d9be)
+![image](https://github.com/user-attachments/assets/c03c578d-c75b-4861-b276-e11c5468d9be)
 
 # Self Introduction
 
