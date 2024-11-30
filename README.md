@@ -1,7 +1,7 @@
 <p><head><strong>Welcome To Cary's Channel</strong></head>
 <hr>
 
-![2ec4c73625ee7fb91e8257e03f78d80](https://github.com/user-attachments/assets/76223924-e477-49c1-b78e-c8f9a2189b37)
+<img src=https://github.com/user-attachments/assets/76223924-e477-49c1-b78e-c8f9a2189b37>
 <br>
 <figcaption>Let's get started!</figcaption>
 👇
