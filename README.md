@@ -9,7 +9,7 @@
 
 <hr>
 
-# <mark>Self Introduction </mark>🧡
+# <mark>Self Introduction </mark>🧡<br>
 
 <img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/77af02dd-3343-4cd4-8d86-4c74c1f27a63>
 
@@ -24,7 +24,7 @@ Also,I'm obssessed in the cotton dolls and research houw to make them by myself.
 <hr>
 <br>
 
-# <mark>Study Goals</mark> 💛
+# <mark>Study Goals</mark> 💛<br>
 
 1.Do my best to adapt to business school life, obtain good grades, and strive to get an A.<br> 
 2.Improve my English level and strive to pass CET-6.<br>
@@ -53,7 +53,7 @@ International Tourism Management<br>
 <hr>
 <br>
 
- # <mark>Social network links</mark> 💚
+ # <mark>Social network links</mark> 💚<br>
  
  - email box: hjy778928502@outlook.com<br>
     If you have any question ,please e-mail me 💬 <br>
@@ -89,7 +89,7 @@ Goals:
 <hr>
 <br>
 
-# <mark>Skills</mark> 💙
+# <mark>Skills</mark> 💙<br>
 
 <img align="right" width="200" alt="logo" src=https://github.com/user-attachments/assets/3ebc5ba7-1580-4af3-8c29-6c0e4db7d87f>
 
@@ -120,7 +120,7 @@ Languages:
 <hr>
 <br>
 
-# <mark>Self-evaluation</mark> 💜
+# <mark>Self-evaluation</mark> 💜<br>
 
 I am a Taurus girl from Nanchang, Jiangxi. I'm curious about things I haven't tried yet. In my daily life, I am friendly to others and hope to become good friends with everyone. In terms of study, I will continue to work hard for the goals I set and strive for the joy of achieving the goals.I am also full of enthusiasm and longing for the future. I believe that my current efforts can lay a good foundation for future life.<br>
 
